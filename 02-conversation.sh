@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PERSON1=Trump
-PERSON2=Iran
+PERSON1=Russia
+PERSON2=Ukraine
 
 echo "$PERSON1: Hey Ukraine, we are going blast you!"
 echo "$PERSON2: Yes, please. you are welcome"
