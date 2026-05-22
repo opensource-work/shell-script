@@ -15,5 +15,4 @@ wait $!
 echo "Line number: $LINENO"
 echo "Script executed in $SECONDS seconds"
 echo "Random number: $RANDOM"
-fdkladf
 echo "Exit code of previous command: $?"
