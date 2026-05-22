@@ -36,5 +36,5 @@ if [ $? -eq 0 ]; then
 else
     echo "Installing nginx"
     dnf install nginx -y
-    VALIDATE MySQL $?
+    VALIDATE nginx $?
 fi
