@@ -1,7 +1,7 @@
 #!/bin/bash
 
 USERID=$(id -u)
-OGS_DIR=/var/log/shell-script
+LOGS_DIR=/var/log/shell-script
 LOGS_FILE="$LOGS_DIR/$0.log"
 
 # Check root access or not
